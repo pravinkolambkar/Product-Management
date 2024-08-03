@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": "03",
+      "productId": "03",
+      "productName": "Mobile",
+      "productPrice": "50000",
+      "productCategory": "Mobile Phone",
+      "productUrl": "https://i03.appmifile.com/329_item_in/04/07/2024/d88301cc16a544f13ee9684e3ef789bd!600x600!85.png",
+      "productDescription": "LG mobile phones merge functionality with a sleek design. Check out LG's wide range of mobile phones to find out which smartphone suits you today."
+    },
+    {
+      "id": "04",
+      "productId": "04",
+      "productName": "TV",
+      "productPrice": "85000",
+      "productCategory": "TV",
+      "productUrl": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-smart-tv-x-series-2023/pc/img11.jpg?f=webp",
+      "productDescription": "Discover the LG UHD UT80 ultra big TV, powered by HDR10 Pro and the alpha 5 AI Processor 4K Gen 7, with webOS 24 and simple WOW Interface soundbar control."
+    },
+    {
+      "id": "05",
+      "productId": "05",
+      "productName": "TV",
+      "productPrice": "50000",
+      "productCategory": "MI TV",
+      "productUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1702663528/Croma%20Assets/Entertainment/Television/Images/300449_0_ktnx0y.png?tr=w-360",
+      "productDescription": "Discover the LG UHD UT80 ultra big TV, powered by HDR10 Pro and the alpha 5 AI Processor 4K Gen 7, with webOS 24 and simple WOW Interface soundbar control."
+    },
+    {
+      "id": "06",
+      "productId": "06",
+      "productName": "Fridge",
+      "productPrice": "35000",
+      "productCategory": "Doubledoor Fridge",
+      "productUrl": "https://m.media-amazon.com/images/I/71hgG59AcNL._SL1500_.jpg",
+      "productDescription": "LG mini fridge saves energy with the inverter technology and keeps your food fresh all the time by using the direct cooling technology. Keeps food fresh."
+    },
+    {
+      "id": "07",
+      "productName": "Fridge",
+      "productPrice": "23000",
+      "productCategory": "Doubledoor Fridge",
+      "productUrl": "https://m.media-amazon.com/images/I/71hgG59AcNL._SL1500_.jpg",
+      "productDescription": "LG mini fridge saves energy with the inverter technology and keeps your food fresh all the time by using the direct cooling technology. Keeps food fresh."
+    },
+    {
+      "id": "08",
+      "productName": "AC",
+      "productPrice": "30000",
+      "productCategory": "Split AC",
+      "productUrl": "https://m.media-amazon.com/images/I/51ngVNZhcuL._SL1500_.jpg",
+      "productDescription": "LG's DUAL Inverter Compressor with Varied Speed Dual Rotary Motor has a wider rotational frequency which saves more energy along with higher speed cooling"
+    },
+    {
+      "id": "09",
+      "productName": "AC",
+      "productPrice": "44440",
+      "productCategory": "Split AC",
+      "productUrl": "https://m.media-amazon.com/images/I/51ngVNZhcuL._SL1500_.jpg",
+      "productDescription": "LG's DUAL Inverter Compressor with Varied Speed Dual Rotary Motor has a wider rotational frequency which saves more energy along with higher speed cooling"
+    },
+    {
+      "id": "10",
+      "productName": "AC",
+      "productPrice": "55500",
+      "productCategory": "AC Cool",
+      "productUrl": "https://m.media-amazon.com/images/I/51ngVNZhcuL._SL1500_.jpg",
+      "productDescription": "LG's DUAL Inverter Compressor with Varied Speed Dual Rotary Motor has a wider rotational frequency which saves more energy along with higher speed cooling"
+    },
+    {
+      "id": "11",
+      "productName": "Washing Machine",
+      "productPrice": "12000",
+      "productCategory": "WM",
+      "productUrl": "https://d2xamzlzrdbdbn.cloudfront.net/products/00ef7afa-6d04-470f-b25b-8b34913ee8bb23281203.jpg",
+      "productDescription": "LG front load washing machines come with LG ThinQ & Wi-Fi connectivity, allowing you to do your laundry in a smarter way. Find out more today."
+    },
+    {
+      "id": "12",
+      "productName": "Washing Machine",
+      "productPrice": "30000",
+      "productCategory": "WM Export",
+      "productUrl": "https://d2xamzlzrdbdbn.cloudfront.net/products/00ef7afa-6d04-470f-b25b-8b34913ee8bb23281203.jpg",
+      "productDescription": "Buy Latest Washing Machines Online in India at Low Prices from Flipkart | Up to 75% Off with Free Shipping | Choose from wide range of washing machines."
+    },
+    {
+      "id": "c653",
+      "productId": "06",
+      "productName": "Fridge",
+      "productPrice": "25000",
+      "productCategory": "Doubledoor ReFridge",
+      "productUrl": "https://m.media-amazon.com/images/I/71hgG59AcNL._SL1500_.jpg",
+      "productDescription": "LG mini fridge saves energy with the inverter technology and keeps your food fresh all the time ."
+    }
+  ],
+  "users": [
+    {
+      "id": "f360",
+      "username": "123",
+      "password": "123",
+      "email": "123@gmail.com",
+      "city": "Mumbai"
+    },
+    {
+      "id": "90b5",
+      "username": "1234",
+      "password": "1234",
+      "email": "1234@gmail.com",
+      "city": "Bengluru"
+    },
+    {
+      "id": "dd35",
+      "username": "pravinsk",
+      "password": "pravinsk",
+      "email": "pravin@gmail.com",
+      "city": "Delhi"
+    }
+  ]
+}
